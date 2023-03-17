@@ -1,0 +1,11 @@
+.idea
+
+config.php
+
+Tools/vendor
+Tools/Mailing/PHPMailer
+
+Uploads/
+
+Services/Tmp/
+xTMP/
